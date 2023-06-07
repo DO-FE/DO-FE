@@ -26,6 +26,10 @@
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0 small fw-bolder">
+                            <select onchange="redirectToURL(this.value)">
+                                <option value="/">Tiếng Việt</option>
+                                <option value="../en/index.html">English</option>
+                            </select>
                             <li class="nav-item"><a class="nav-link" href="index.html">Trang chủ</a></li>
                             <li class="nav-item"><a class="nav-link" href="vn/resume.html">Hồ sơ lí lịch</a></li>
                             <li class="nav-item"><a class="nav-link" href="vn/projects.html">Dự án</a></li>
