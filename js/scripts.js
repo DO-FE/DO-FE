@@ -9,23 +9,3 @@
 function redirectToURL(url) {
     window.location.href = url;
 };
-function copyToClipboard(value) {
-    const tempInput = document.createElement("input");
-    tempInput.value = value;
-    document.body.appendChild(tempInput);
-    tempInput.select();
-    document.execCommand("copy");
-    document.body.removeChild(tempInput);
-
-    showNotification();
-};
-
-function showNotification() {
-    const overlay = document.getElementById("notificationOverlay");
-    overlay.style.display = "flex";
-};
-
-function closeNotification() {
-    const overlay = document.getElementById("notificationOverlay");
-    overlay.style.display = "none";
-};
