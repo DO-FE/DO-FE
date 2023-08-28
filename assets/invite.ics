@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:SE Asia Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=NGUYEN Hoang Bich Tran:mailto:tnguyen56@amaris.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nhattien.l
+ am.545@gmail.com:mailto:nhattien.lam.545@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=HUYNH TAM 
+ Hao:mailto:hao.huynhtam@amaris.com
+ATTACH:CID:image001.png@01D9D75E.AC3B10B0
+ATTACH:CID:image002.png@01D9D75E.AC3B10B0
+ATTACH:CID:image003.png@01D9D75E.AC3B10B0
+ATTACH:CID:image004.png@01D9D75E.AC3B10B0
+DESCRIPTION;LANGUAGE=en-US:Hello Mr. Tien\,\nThank you for your interest in
+  working with us. I’m pleased to confirm we’d like to invite you to yo
+ ur interview.\n\n  *   Interviewer: Hao HUYNH TAM\, Team Manager\, hao.huy
+ nhtam@amaris.com<mailto:hao.huynhtam@amaris.com>\n\n  *   By Microsoft Tea
+ ms: Click here to join the meeting<https://teams.microsoft.com/l/meetup-jo
+ in/19%3ameeting_ODg2YjViYjAtZDVmNC00OWZhLWEyZTItOGU2ZTkyYzdmMTM1%40thread.
+ v2/0?context=%7b%22Tid%22%3a%22ce57ebe3-a63d-4708-b5cf-c274b48bd26c%22%2c%
+ 22Oid%22%3a%227155b9ac-cdc0-4c7c-a7b0-c6ac53bbac78%22%7d>\n\n  *   Date: O
+ n 28/08/2023 at 14:30 (Vietnam/Ho Chi Minh City)\nPlease kindly confirm yo
+ ur attendance by replying to this email.\nOn the interview day\, kindly jo
+ in 5-10 minutes earlier if possible\, to prepare your video and audio sett
+ ings for the meeting.\nIn the meantime\, you can learn more about Amaris C
+ onsulting and our people on our website www.amaris.com<http://www.amaris.c
+ om/> and social media channels.\nGood luck with your interview!\nBest rega
+ rds\,\nThe Amaris Consulting Talent Team\n[cid:image001.png@01D9D75E.AC3B1
+ 0B0]\n\nNGUYEN Hoang Bich Tran\nConsulting Talent Acquisition Specialist\n
+ \nTel: +8428 7303 2146\nSkype: live:trannguyen.huc\n15th Flr.\, Viettel To
+ wer\, 285 CMT8 Street\, D.10\, HCMC\ntnguyen56@amaris.com<mailto:tnguyen56
+ @amaris.com>\nwww.amaris.com<http://www.amaris.com>\n[Image]<https://www.f
+ acebook.com/amaris.official.page>\n[Image]<https://twitter.com/amaris>\n[I
+ mage]<https://www.linkedin.com/company/amaris>\n\n\n\n\n__________________
+ ______________________________________________________________\nMicrosoft 
+ Teams meeting\nJoin on your computer\, mobile app or room device\nClick he
+ re to join the meeting<https://teams.microsoft.com/l/meetup-join/19%3ameet
+ ing_ODg2YjViYjAtZDVmNC00OWZhLWEyZTItOGU2ZTkyYzdmMTM1%40thread.v2/0?context
+ =%7b%22Tid%22%3a%22ce57ebe3-a63d-4708-b5cf-c274b48bd26c%22%2c%22Oid%22%3a%
+ 227155b9ac-cdc0-4c7c-a7b0-c6ac53bbac78%22%7d>\nMeeting ID: 363 761 643 990
+ \nPasscode: GcERQe\nDownload Teams<https://www.microsoft.com/en-us/microso
+ ft-teams/download-app> | Join on the web<https://www.microsoft.com/microso
+ ft-teams/join-a-meeting>\nLearn More<https://aka.ms/JoinTeamsMeeting> | Me
+ eting options<https://teams.microsoft.com/meetingOptions/?organizerId=7155
+ b9ac-cdc0-4c7c-a7b0-c6ac53bbac78&tenantId=ce57ebe3-a63d-4708-b5cf-c274b48b
+ d26c&threadId=19_meeting_ODg2YjViYjAtZDVmNC00OWZhLWEyZTItOGU2ZTkyYzdmMTM1@
+ thread.v2&messageId=0&language=en-US>\n___________________________________
+ _____________________________________________\n\n
+UID:040000008200E00074C5B7101A82E0080000000080E5273E5ED7D901000000000000000
+ 010000000940609B20980A04097E77795930411F5
+SUMMARY;LANGUAGE=en-US:Amaris Recruitment Process - Lam Nhat Tien - DevOps 
+ Engineer
+DTSTART;TZID=SE Asia Standard Time:20230828T143000
+DTEND;TZID=SE Asia Standard Time:20230828T153000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20230825T072211Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:1809418215
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_ODg2YjViYjAtZDVmNC00OWZhLWEyZTItOGU2ZTkyYzdmMTM1%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%22ce57ebe3-a63d-4708-b5cf-c274b48bd26c%22%2c%22O
+ id%22%3a%227155b9ac-cdc0-4c7c-a7b0-c6ac53bbac78%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/ce57ebe3-a63d-4708-b5cf-c274b48bd26c/7155b9ac-cdc0-4c7c-a7b0-c
+ 6ac53bbac78/19_meeting_ODg2YjViYjAtZDVmNC00OWZhLWEyZTItOGU2ZTkyYzdmMTM1@th
+ read.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_ODg2YjViYjAtZDVmNC00OWZ
+ hLWEyZTItOGU2ZTkyYzdmMTM1@thread.v2"\,"private":true\,"type":0\,"mid":0\,"
+ rid":0\,"uid":null}
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Microsoft Teams Meeting"\, "Loca
+ tionAnnotation" : ""\, "LocationSource" : 0\, "Unresolved" : false\, "Loca
+ tionUri" : "" } ]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
